@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Miguel Benjamin Zubieta</h1>
+<h1 align="center">Hi, I'm Miguel</h1>
 <h3 align="center">A passionate software developer from Bolivia.</h3>
 
 - 🔭 I’m currently building my [portfolio](https://miguelzubieta.me/) and search new projects.
